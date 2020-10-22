@@ -33,7 +33,6 @@ Brief information:
 
 ### Analytics
 
-<img width="400em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ghileors&theme=radical&show_icons=true" />
-<img width="400em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghileors&theme=radical&layout=compact" />
+<img width="400em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ghileors&theme=radical&show_icons=true" /> <img width="400em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghileors&theme=radical&layout=compact" />
 
 ![Profile views](https://gpvc.arturio.dev/ghileors)
