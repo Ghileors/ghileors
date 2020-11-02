@@ -5,7 +5,7 @@ Brief information:
 - Front-end developer (react.js)
 - Kharkov, Ukraine
 - 063 791 65 29
-- slsrv.p.a@ukr.net
+- slsrv.p.a@gmail.com
 - [website](https://app.netlify.com/teams/ghileors/sites)
 
 <hr/>
