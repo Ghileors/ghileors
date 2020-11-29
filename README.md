@@ -6,7 +6,7 @@ Brief information:
 - Kharkov, Ukraine
 - 063 791 65 29
 - slsrv.p.a@gmail.com
-- [website](https://app.netlify.com/teams/ghileors/sites)
+- [linkedin](https://www.linkedin.com/in/polina-slyusareva-7238a11ba/)
 
 <hr/>
 
