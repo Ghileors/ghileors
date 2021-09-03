@@ -3,10 +3,6 @@
 Brief information:
 
 - Front-end developer (react.js)
-- Kharkov, Ukraine
-- 063 791 65 29
-- slsrv.p.a@gmail.com
-- [linkedin](https://www.linkedin.com/in/polina-slyusareva-7238a11ba/)
 
 <hr/>
 
